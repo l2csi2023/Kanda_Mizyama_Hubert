@@ -1,0 +1,8 @@
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\bin\Debug\TPHuber_Kanda.exe.config
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\bin\Debug\TPHuber_Kanda.exe
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\bin\Debug\TPHuber_Kanda.pdb
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\obj\Debug\TPHuber_Kanda.Form1.resources
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\obj\Debug\TPHuber_Kanda.Properties.Resources.resources
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\obj\Debug\TPHuber_Kanda.csproj.GenerateResource.Cache
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\obj\Debug\TPHuber_Kanda.exe
+C:\Users\Augustin\Desktop\HubertTP\Kanda_Mizyama_Hubert\TPHuber_Kanda\TPHuber_Kanda\obj\Debug\TPHuber_Kanda.pdb
